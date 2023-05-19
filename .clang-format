@@ -1,0 +1,16 @@
+---
+Language: Cpp
+# 连续赋值时，对齐所有等号
+AlignConsecutiveAssignments: true
+# 对齐连续的尾随的注释
+AlignTrailingComments: true
+# 总是在template声明后换行
+AlwaysBreakTemplateDeclarations: true
+# true表示实参各自一行
+BinPackArguments: true
+# true表示形参都在同一行
+BinPackParameters: false
+# 允许重新排版注释
+ReflowComments: true
+# 在尾随的注释前添加的空格数 只适用于//
+SpacesBeforeTrailingComments: 2
